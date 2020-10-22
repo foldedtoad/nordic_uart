@@ -1,9 +1,10 @@
 /** @file
- *  @brief Nordic NUS sample application
+ *  @brief Nordic NUS sample application (Nordic Uart Service)
  */
 
 /*
  * Copyright (c) 2018 Nordic Semiconductor ASA
+ * Copyright (c) 2020 Callender-Consulting LLC
  *
  * SPDX-License-Identifier: Apache-2.0
  */

@@ -1,10 +1,10 @@
 /** @file
- *  @brief Nordic NUS Service
- *  http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.sdk5.v15.0.0/ble_sdk_app_nus_eval.html?cp=4_0_0_4_1_2_24 
+ *  @brief Nordic NUS Service  (Nordic Uart Service)
  */
 
 /*
  * Copyright (c) 2018 Nordic Semiconductor ASA
+ * Copyright (c) 2020 Callender-Consulting LLC
  *
  * SPDX-License-Identifier: Apache-2.0
  */
