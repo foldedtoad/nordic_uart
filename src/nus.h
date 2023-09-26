@@ -11,8 +11,8 @@
 #ifndef __NVS_H
 #define __NVS_H
 
-#include <bluetooth/conn.h>
-#include <bluetooth/uuid.h>
+#include <zephyr/bluetooth/conn.h>
+#include <zephyr/bluetooth/uuid.h>
 
 /** @def BT_UUID_NUS
  *  @brief Nordic UART Service
